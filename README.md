@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilgehan Demirkaya</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently building on **own start-up**
-
-- 🌱 I’m currently developing **3D projects**
+- I'm currently working on **Zynga Inc**
 
 - 💬 Technologies **Unity, Vue, Java Spring,**
 
