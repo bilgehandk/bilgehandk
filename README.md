@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilgehan Demirkaya. </h1>
-<h3 align="center">I am a mobile game engineer. I am proficient in Unity and C#, as well as React Native. You can write about job opportunities or develop projects together.</h3>
+<h3 align="center">I am a mobile game engineer. I am developing myself in Unity, C#, and React Native. You can write about job opportunities or develop projects together.</h3>
 
 - 💬 Technologies **Unity, C#, React Native**
 
